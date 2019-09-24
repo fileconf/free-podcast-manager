@@ -57,8 +57,10 @@
 
 		<item>
 			<title>[01]-Test Episode</title>
-
+			<itunes:title>[01]-Test Episode</itunes:title>
 			<media:title>[01]-Test Episode</media:title>
+			
+		 	<itunes:subtitle>This Episode provides a sample release</itunes:subtitle>
 
 			<googleplay:author>Fileconf Core Team</googleplay:author>
 			<itunes:author>Fileconf Core Team</itunes:author>
