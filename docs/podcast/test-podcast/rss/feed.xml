@@ -3,6 +3,7 @@
 	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:media="http://video.search.yahoo.com/mrss"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dcterms="https://purl.org/dc/terms"
 	xmlns:spotify="https://www.spotify.com/ns/rss"
 	xmlns:psc="https://podlove.org/simple-chapters/">
@@ -63,7 +64,7 @@
 			<itunes:author>Fileconf Core Team</itunes:author>
 			<author>Fileconf Core Team</author>
 
-			<content:encoded>Description of your episode</content:encoded>
+			<content:encoded><i>Description of your episode</i></content:encoded>
 
 			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3" length="275472" type="audio/x-mp3"/>
 			<media:content type="audio/x-mp3" url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3"/>
