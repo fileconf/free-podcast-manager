@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss    version="2.0"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://video.search.yahoo.com/mrss"
+	xmlns:dcterms="https://purl.org/dc/terms"
+	xmlns:spotify="https://www.spotify.com/ns/rss"
+	xmlns:psc="https://podlove.org/simple-chapters/">
+	<channel>
+		<title>Fileconf - Test Podcast</title>
+
+		<googleplay:author>Fileconf - Podcaster</googleplay:author>
+		<itunes:author>Fileconf - Podcaster</itunes:author>
+		<author>Fileconf - Podcaster</author>
+
+		<googleplay:email>fileconf@kunstpuls.de</googleplay:email>
+		<itunes:owner>
+			<itunes:email>fileconf@kunstpuls.de</itunes:email>
+		</itunes:owner>
+		<managingEditor>fileconf@kunstpuls.de</managingEditor>
+
+		<googleplay:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/assets/logo-2800x2800.png"/>
+		<itunes:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/assets/logo-2800x2800.png"/>
+		<image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/assets/logo-2800x2800.png"/>
+
+		<googleplay:description>Test mock podcast from fileconf</googleplay:description>
+		<itunes:summary>Test mock podcast from fileconf</itunes:summary>
+		<description>Test mock podcast from fileconf</description>
+
+		<language>de</language>
+
+		<link>https://fileconf.github.io/free-podcast-manager</link>
+
+		<googleplay:explicit>No</googleplay:explicit>
+		<itunes:explicit>no</itunes:explicit>
+
+		<googleplay:category text="Technology"/>
+		<itunes:category text="Technology" />
+		<category>Technology</category>
+
+		<copyright>℗ 2019 Fileconf</copyright>
+
+		<webMaster>fileconf@kunstpuls.de</webMaster>
+
+		<lastBuildDate>Sat, 07 Sep 2002 09:42:31 GMT</lastBuildDate>
+
+		<generator>Fileconf Podcaster v1.0</generator>
+
+		<ttl>60</ttl>
+
+		<itunes:complete>no</itunes:complete>
+
+		<spotify:limit recentCount="10" />
+
+		<spotify:countryOfOrigin>de at ch nl</spotify:countryOfOrigin>
+
+		<item>
+			<title>[01]-Test Episode</title>
+
+			<media:title>[01]-Test Episode</media:title>
+
+			<googleplay:author>Fileconf Core Team</googleplay:author>
+			<itunes:author>Fileconf Core Team</itunes:author>
+			<author>Fileconf Core Team</author>
+
+			<content:encoded><i>Description of your episode</i></content:encoded>
+
+			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3" length="275472" type="audio/x-mp3"/>
+			<media:content type="audio/x-mp3" url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3"/>
+
+			<itunes:duration>11</itunes:duration>
+
+			<googleplay:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.png"/>
+			<itunes:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.png"/>
+			<image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.png"/>
+
+			<googleplay:description>Description of your episode</googleplay:description>
+			<itunes:summary>Description of your episode</itunes:summary>
+			<media:description>Description of your episode</media:description>
+			<description>Description of your episode</description>
+
+			<guid>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3</guid>
+
+			<link>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1</link>
+
+			<pubDate>Wednesday, 04 Feb 2015 00:00:00 EST</pubDate>
+
+			<dcterms:valid/>start=2015-02-02T00:00+01:00;end=2025-07-02T09:00+01:00;</dcterms:valid>
+
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:explicit>no</itunes:explicit>
+
+			<itunes:order>1</itunes:order>
+
+			<googleplay:block>no</googleplay:block>
+			<itunes:block>no</itunes:block>
+
+			<comments>https://fileconf.github.io/free-podcast-manager</comments>
+
+			<source url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/rss/feed.xml">Name of the remote podcast</source>
+
+			<media:restriction type="country" relationship="allow">de at ch nl</media:restriction>
+			
+			<psc:chapters/>
+				<psc:chapter start="0" title="Start Mark - 01"/>
+				<psc:chapter start="0:04" title="Testaufnahme"/>
+				<psc:chapter start="0:07" title="Herzlich Willkommen!"/>
+				<psc:chapter start="0:10" title="End credits"/>
+			</psc:chapters>
+			
+			<itunes:keywords>tech,podcast,hosting,fileconf</itunes:keywords>
+		</item>
+	</channel>
+</rss>
