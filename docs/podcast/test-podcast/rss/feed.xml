@@ -101,7 +101,7 @@
 
 			<media:restriction type="country" relationship="allow">de at ch nl</media:restriction>
 			
-			<psc:chapters/>
+			<psc:chapters>
 				<psc:chapter start="0" title="Start Mark - 01"/>
 				<psc:chapter start="0:04" title="Testaufnahme"/>
 				<psc:chapter start="0:07" title="Herzlich Willkommen!"/>
