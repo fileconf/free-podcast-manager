@@ -9,6 +9,9 @@
 	xmlns:psc="https://podlove.org/simple-chapters/">
 	<channel>
 		<title>Fileconf - Test Podcast</title>
+		<itunes:title>Fileconf - Test Podcast</itunes:title>
+
+		<itunes:subtitle>This Episode provides a sample release</itunes:subtitle>
 
 		<googleplay:author>Fileconf - Podcaster</googleplay:author>
 		<itunes:author>Fileconf - Podcaster</itunes:author>
@@ -59,8 +62,6 @@
 			<title>[01]-Test Episode</title>
 			<itunes:title>[01]-Test Episode</itunes:title>
 			<media:title>[01]-Test Episode</media:title>
-			
-		 	<itunes:subtitle>This Episode provides a sample release</itunes:subtitle>
 
 			<googleplay:author>Fileconf Core Team</googleplay:author>
 			<itunes:author>Fileconf Core Team</itunes:author>
