@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss    version="2.0"
-	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:media="http://video.search.yahoo.com/mrss"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dcterms="https://purl.org/dc/terms"
-	xmlns:spotify="https://www.spotify.com/ns/rss"
-	xmlns:psc="https://podlove.org/simple-chapters/">
+<rss version="2.0"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:media="http://video.search.yahoo.com/mrss"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:dcterms="https://purl.org/dc/terms"
+	 xmlns:spotify="https://www.spotify.com/ns/rss"
+	 xmlns:psc="https://podlove.org/simple-chapters/">
 	<channel>
 		<title>Fileconf - Test Podcast</title>
 		<itunes:title>Fileconf - Test Podcast</itunes:title>
 
-		<itunes:subtitle>This Podcast is provided as a sample</itunes:subtitle>
+		<itunes:subtitle>This Podcast is a part of the free podcast manager project for everyone</itunes:subtitle>
 
 		<googleplay:author>Fileconf - Podcaster</googleplay:author>
 		<itunes:author>Fileconf - Podcaster</itunes:author>
@@ -46,7 +46,7 @@
 
 		<webMaster>fileconf@kunstpuls.de</webMaster>
 
-		<lastBuildDate>Sat, 07 Sep 2002 09:42:31 GMT</lastBuildDate>
+		<lastBuildDate>Mi, 25 Sep 2019 14:45:00 GMT</lastBuildDate>
 
 		<generator>Fileconf Podcaster v1.0</generator>
 
@@ -113,6 +113,55 @@
 				<psc:chapter start="0:07" title="Herzlich Willkommen!"/>
 				<psc:chapter start="0:10" title="End credits"/>
 			</psc:chapters>
+			
+			<itunes:keywords>tech,podcast,hosting,fileconf</itunes:keywords>
+		</item>
+		<item>
+			<title>Die Podcasting Welt kommt voran!</title>
+			<itunes:title>Die Podcasting Welt kommt voran!</itunes:title>
+			<media:title>Die Podcasting Welt kommt voran!</media:title>
+
+			<itunes:subtitle>Es geht weiter, mit dem einfachen Podcasting</itunes:subtitle>
+
+			<googleplay:author>Fileconf Core Team</googleplay:author>
+			<itunes:author>Fileconf Core Team</itunes:author>
+			<author>Fileconf Core Team</author>
+
+			<content:encoded><i>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</i></content:encoded>
+
+			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3" length="529002" type="audio/x-mp3"/>
+			<media:content type="audio/x-mp3" url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3"/>
+
+			<itunes:duration>22</itunes:duration>
+
+			<googleplay:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.png"/>
+			<itunes:image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.png"/>
+			<image href="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.png"/>
+
+			<googleplay:description>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</googleplay:description>
+			<itunes:summary>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</itunes:summary>
+			<media:description>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</media:description>
+			<description>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</description>
+
+			<guid>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3</guid>
+
+			<link>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2</link>
+
+			<pubDate>Mittwoch, 25 September 2019 11:30:00 EST</pubDate>
+
+			<googleplay:explicit>No</googleplay:explicit>
+			<itunes:explicit>no</itunes:explicit>
+
+			<itunes:order>2</itunes:order>
+
+			<googleplay:block>no</googleplay:block>
+			<itunes:block>no</itunes:block>
+
+			<comments>https://fileconf.github.io/free-podcast-manager</comments>
+
+			<source url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/rss/feed.xml">Fileconf - Test Podcast</source>
+
+			<media:restriction type="country" relationship="allow">de at ch nl</media:restriction>
 			
 			<itunes:keywords>tech,podcast,hosting,fileconf</itunes:keywords>
 		</item>
