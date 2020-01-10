@@ -41,7 +41,7 @@
 
 		<googleplay:category text="News"/>
     <googleplay:category text="Comedy"/>
-    <googleplay:category text="Society & Culture"/>
+    <googleplay:category text="Society &amp; Culture"/>
 
 		<itunes:category text="News">
       		<itunes:category text="Tech News" />
@@ -49,7 +49,7 @@
     <itunes:category text="Comedy">
         <itunes:category text="Comedy Interviews" />
     </itunes:category>
-    <itunes:category text="Society & Culture">
+    <itunes:category text="Society &amp; Culture">
         <itunes:category text="Personal Journals" />
     </itunes:category>
     
@@ -57,7 +57,7 @@
     
 		<category>News</category>
     <category>Comedy</category>
-    <category>Society & Culture</category>
+    <category>Society &amp; Culture</category>
 
 		<copyright>℗ 2019 Fileconf</copyright>
 
