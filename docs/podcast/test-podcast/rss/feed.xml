@@ -88,7 +88,7 @@
 
 			<content:encoded><![CDATA[<i>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</i>]]></content:encoded>
 
-			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3" length="529002" type="audio/x-mp3"/>
+			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3" length="529002" type="audio/mp3"/>
 			<media:content type="audio/x-mp3" url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3"/>
 
 			<itunes:duration>22</itunes:duration>
@@ -140,7 +140,7 @@
 
 			<content:encoded><![CDATA[<i>Description of your episode</i>]]></content:encoded>
 
-			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3" length="275472" type="audio/x-mp3"/>
+			<enclosure url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3" length="275472" type="audio/mp3"/>
 			<media:content type="audio/x-mp3" url="https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3"/>
 
 			<itunes:duration>11</itunes:duration>
