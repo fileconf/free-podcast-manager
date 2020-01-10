@@ -63,7 +63,7 @@
 
 		<webMaster>fileconf@kunstpuls.de</webMaster>
 
-    <lastBuildDate>Fri, 10 Jan 2020 22:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 23:20:00 GMT</lastBuildDate>
 
 		<generator>Fileconf Podcaster v1.0</generator>
 
@@ -102,7 +102,7 @@
 			<media:description>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</media:description>
 			<description>Es geht weiter, mit dem einfachen Podcasting, wie sollte es möglich sein, das jeder kostenfrei einen Podcast erstellen kann? Ganz einfach mit Fileconf!</description>
 
-			<guid>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3</guid>
+			<guid isPermaLink="true">https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2/2.mp3</guid>
 
 			<link>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/2</link>
 
@@ -154,7 +154,7 @@
 			<media:description>Description of your episode</media:description>
 			<description>Description of your episode</description>
 
-			<guid>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3</guid>
+			<guid isPermaLink="true">https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1/1.mp3</guid>
 
 			<link>https://fileconf.github.io/free-podcast-manager/podcast/test-podcast/episode/1</link>
 
